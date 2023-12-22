@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;500&display=swap');
+
+.content {
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+#ServerName {
+    color: rgb(255, 255, 255);
+    font-family: 'Roboto', sans-serif;
+    text-shadow: 1px 1px 4px #fff9f9;
+    margin: 0; /* Reset margin to ensure no additional space */
+}
+
+#PlayerId, #LocalTime {
+    display: inline-block; /* Display elements in the same line */
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    text-shadow: 1px 1px 4px #fff9f9;
+    margin: 0; /* Reset margin to ensure no additional space */
+}

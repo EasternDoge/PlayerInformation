@@ -2,9 +2,9 @@
 
 A very simple Player information UI with just a few lines of code
 
-# How to set it up
+# How to change the server name
 
-Just drag it in to a your resource folder and start it
+Go to the html folder then open index.html file and change your server name
 
 # Features
 
